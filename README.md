@@ -62,6 +62,12 @@ The dataset is included in this repository for demonstration and educational pur
 * Data Visualization (Available in screenshots folder)
 * Business Data Analysis
 
+## Related Project
+
+A Power BI dashboard was created using the same dataset.
+
+➡️ Sales Dashboard (Power BI)
+
 ## Author Erick
 Focus areas:
 -SQL
