@@ -66,7 +66,7 @@ The dataset is included in this repository for demonstration and educational pur
 
 A Power BI dashboard was created using the same dataset.
 
-➡️ Sales Dashboard (Power BI)
+* Sales Dashboard (Power BI)
 
 ## Author Erick
 Focus areas:
